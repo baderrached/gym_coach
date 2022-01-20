@@ -3735,11 +3735,14 @@ hr {
     margin-top: 67px;
     margin-bottom: 61px;
   }
+
+  .traning-categories .single-topic .topic-img img {
+    width: 95% !important ; 
+  }
 }
 
-/* line 22, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_traning-cat.scss */
 .traning-categories .single-topic .topic-img img {
-  width: 100%;
+  width: 60%;
 }
 
 /* line 29, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_traning-cat.scss */
